@@ -1,0 +1,141 @@
+/*******************************************************************
+General
+***************************************************************************/
+
+h4{
+  color: rgb(78, 221, 255);
+}
+.navigation{
+  background-color: black;
+}
+.row{
+width: 100%;
+text-align: center;
+}
+/**************************************************************************
+Navigation
+***************************************************************************/
+.top-bar{
+  background-color: black;
+}
+.top-bar li{
+  font-size: 1.2em;
+background-color: black;
+}
+.top-bar h4{
+  background-color: black;
+  font-family: 'Kaushan Script', cursive;
+}
+.top-bar a{
+  color:rgb(78, 221, 255) ;
+font-family: 'Lobster Two', cursive;
+}
+
+
+
+/**************************************************************************
+Header
+**************************************************************************/
+
+.name{
+  width: 80%;
+  margin: 2em auto;
+  color: white;
+  padding: 4em 0;
+    background-color: black;
+    background-image: url("../images/zig zag wool.png");
+    text-align: center;
+}
+.name h1 {
+  font-size: 4.3em;
+}
+body{
+  background-image: url("../images/skin_side_up.png");
+}
+.header h1{
+  color: rgb(78, 221, 255);
+  font-family: 'Marcellus', serif;
+}
+
+
+/************************************************************************
+Main
+*************************************************************************/
+.main{
+  padding: 2em;
+}
+.main p{
+  font-size: 1.3em;
+  font-family: 'Marcellus', serif;
+}
+
+.main h4{
+  font-family: 'Playball', cursive;
+  text-align: center;
+}
+.main p {
+  font-family: 'Marcellus', serif;
+}
+.columns{
+  text-align: center;
+}
+.main a{
+color: white;
+}
+.main h3 {
+text-align: center;
+color: rgb(78,221,255);
+font-family: 'Berkshire Swash', cursive;
+font-size: 3.7em;
+}
+.circle{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  background-color:  rgb(78,221,255);
+  text-align: center;
+  margin: auto;
+  }
+  .circlet{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color:  transparent;
+    text-align: center;
+    }
+.circle h2 {
+    font-family: 'Playball', cursive;
+    padding: 1em;
+}
+.circle:hover{
+  background-color: rgb(73, 255, 121);
+}
+.main h4{
+padding-bottom: 1.5em;
+}
+#pic1{
+  padding: 3em 0;
+}
+
+#pic2{
+  padding: 6em 0;
+}
+
+/*************************************************************************
+Footer
+**************************************************************************/
+.Footer{
+  padding-top: 1.5em;
+  text-align: center;
+  background-color:black;
+}
+.Footer p{ font-family: 'Merienda', cursive;
+color:  rgb(78,221,255);
+}
+.Footer a{
+  color: rgb(78,221,255);
+}
+.Footer h3{
+  font-family: 'Berkshire Swash', cursive;
+  color: rgb(78,221,255);
+}
